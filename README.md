@@ -1,5 +1,9 @@
 # 🔍 VectorDB-JS
 
+# Note Deploye kyu nhi kya ?
+  "Mera project Vercel pe deploy nahi ho sakta kyunki ye stateful backend hai - vectors memory mein store hote hain HNSW aur KD-Tree mein. Vercel serverless hai,   har request pe data reset ho jata hai. Isliye mujhe Render ya Railway jaise platform chahiye jo persistent memory provide karein."
+  paid sever pe Deploye karskte hai.
+
 **A complete Vector Database built from scratch in JavaScript** — Understand how HNSW, KD-Tree, RAG, and document embeddings work by exploring a working system.
 
 ---
